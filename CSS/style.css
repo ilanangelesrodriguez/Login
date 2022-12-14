@@ -6,6 +6,7 @@ html{
 *{
     font-family: 'Silkscreen', cursive;
     color: white;
+    max-width: 100%;
 }
 .container {
     display: flex;
